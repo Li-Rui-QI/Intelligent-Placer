@@ -1,0 +1,49 @@
+результат: 
+picture 1
+ Predicted value:False
+ actual value:True
+ Is correct:False
+picture 2
+ Predicted value:True
+ actual value:True
+ Is correct:True
+picture 3
+ Predicted value:False
+ actual value:False
+ Is correct:True
+picture 4
+ Predicted value:False
+ actual value:True
+ Is correct:False
+picture 5
+ Predicted value:True
+ actual value:True
+ Is correct:True
+picture 6
+ Predicted value:False
+ actual value:False
+ Is correct:True
+picture 7
+ Predicted value:True
+ actual value:True
+ Is correct:True
+picture 8
+ Predicted value:False
+ actual value:False
+ Is correct:True
+picture 9
+ Predicted value:False
+ actual value:False
+ Is correct:True
+picture 10
+ Predicted value:True
+ actual value:True
+ Is correct:True
+picture 11
+ Predicted value:False
+ actual value:False
+ Is correct:True
+picture 12
+ Predicted value:True
+ actual value:True
+ Is correct:True
